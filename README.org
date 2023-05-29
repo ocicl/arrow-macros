@@ -1,0 +1,9 @@
+* arrow-macros
+
+Arrow-macros provides Clojure-like arrow macros in Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/hipeta/arrow-macros.git |
+| commit  | 1ed4fe6                                        |
+| systems | arrow-macros                                   |
+|---------+------------------------------------------------|
